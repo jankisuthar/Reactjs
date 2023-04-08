@@ -1,0 +1,19 @@
+.bg
+{
+    background:url(https://th.bing.com/th/id/OIP.MfyXHfmUceSt_U90jWDvkAHaEO?pid=ImgDet&rs=1);
+    background-size:cover;
+}   
+.leftB{
+
+    height: auto;
+    margin:  100px;
+}
+.title_A{
+
+    font-size: 60px;
+    font-weight: bolder;
+}
+.info_A{
+
+    font-size: 20px;
+}

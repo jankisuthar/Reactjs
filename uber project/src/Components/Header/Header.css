@@ -1,0 +1,35 @@
+.navbar{
+
+    background:black;
+}
+.navbar-brand{
+
+    color: aliceblue;
+}
+.navbar-nav a{
+
+    color: aliceblue;
+}
+.dropdown-menu a{
+
+    
+    color: black;
+}
+.right{
+
+    display: flex;
+    margin-left:400%;
+}
+.nav-link button{
+
+    padding: 1px;
+    background: ;
+}
+.navbar-toggler-icon{
+
+    background: white;
+}
+.deep{
+
+    color: aliceblue;
+}

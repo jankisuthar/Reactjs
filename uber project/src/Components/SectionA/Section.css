@@ -1,0 +1,36 @@
+.left{
+
+    height: 80vh;
+}
+.left .form{
+
+    height: 400px;
+    background:#fff;
+    margin: auto;
+
+
+}
+
+.left_A .item{
+
+    height: ;
+    border-bottom: 3px solid;
+    text-align: center;
+    cursor: pointer;
+}
+.right_B .item{
+
+    text-align: center;
+    height: ;
+
+    border-bottom: 3px solid;
+    cursor: pointer;
+}
+.mybg{
+    height: 90vh;
+}
+.get{
+
+    font-size: 40px;
+    font-weight: bolder;
+}

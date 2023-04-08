@@ -1,0 +1,20 @@
+.main-part{
+
+
+    background: red;
+    margin: auto;
+}
+.row_d{
+
+    width: 70%;
+
+    background: coral;
+    margin: auto;
+}
+.photo{
+
+    height: auto;
+    width: 95%;
+    background: red;
+    margin: auto;
+}
